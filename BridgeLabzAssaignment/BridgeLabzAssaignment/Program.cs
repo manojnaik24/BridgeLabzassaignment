@@ -50,12 +50,17 @@ namespace BridgeLabzAssaignment
                     int mul = Convert.ToInt32(Console.ReadLine());
 
                     break;
-                case 4:
+
+                    case 4:
                     Harmonic_Number.HarmonicN();
                     break;
 
                     case 5:
                     Factors.FactorsOfNumber();
+                    break;
+
+                    case 6:
+                    Compute_Quotient_and_Remainder.CQR();
                     break;
 
             }
