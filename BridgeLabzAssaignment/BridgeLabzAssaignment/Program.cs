@@ -54,6 +54,9 @@ namespace BridgeLabzAssaignment
                     Harmonic_Number.HarmonicN();
                     break;
 
+                    case 5:
+                    Factors.FactorsOfNumber();
+                    break;
 
             }
             
