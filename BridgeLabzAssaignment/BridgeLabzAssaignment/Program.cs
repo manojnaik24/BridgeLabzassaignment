@@ -63,6 +63,10 @@ namespace BridgeLabzAssaignment
                     Compute_Quotient_and_Remainder.CQR();
                     break;
 
+                    case 7:
+                    Swap_Two_Numbers.STN();
+                    break;
+
             }
             
             
