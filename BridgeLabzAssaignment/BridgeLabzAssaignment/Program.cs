@@ -75,6 +75,10 @@ namespace BridgeLabzAssaignment
                     Alphabet_is_Vowel.AIV();
                     break;
 
+                    case 10:
+                    Largest_Among_Three_Numbers.Largest();
+                    break;
+
             }
             
             
