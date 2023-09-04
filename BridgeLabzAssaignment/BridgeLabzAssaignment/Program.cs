@@ -67,6 +67,10 @@ namespace BridgeLabzAssaignment
                     Swap_Two_Numbers.STN();
                     break;
 
+                    case 8:
+                    Even_or_Odd.EO();
+                    break;
+
             }
             
             
