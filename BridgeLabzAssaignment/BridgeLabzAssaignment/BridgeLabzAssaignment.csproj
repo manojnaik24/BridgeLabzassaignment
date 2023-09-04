@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Flip Coin.cs" />
+    <Compile Include="Harmonic Number.cs" />
     <Compile Include="Leap Year.cs" />
     <Compile Include="PowerOfTwo.cs" />
     <Compile Include="Program.cs" />

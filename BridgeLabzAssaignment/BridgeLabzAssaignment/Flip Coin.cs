@@ -9,7 +9,7 @@ namespace BridgeLabzAssaignment
     internal class Flip_Coin
     {
 
-       public static void Flip(int n)
+        public static void Flip(int n)
         {
             int headsCount = 0;
             int tailsCount = 0;
@@ -17,7 +17,6 @@ namespace BridgeLabzAssaignment
 
             for (int i = 0; i < n; i++)
             {
-                // Use random.NextDouble() to get a random number between 0 and 1
                 if (random.NextDouble() < 0.5)
                 {
                     headsCount++;
