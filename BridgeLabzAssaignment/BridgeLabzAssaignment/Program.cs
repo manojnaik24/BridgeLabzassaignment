@@ -71,6 +71,10 @@ namespace BridgeLabzAssaignment
                     Even_or_Odd.EO();
                     break;
 
+                    case 9:
+                    Alphabet_is_Vowel.AIV();
+                    break;
+
             }
             
             
